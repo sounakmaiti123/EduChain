@@ -29,4 +29,14 @@ No frameworks are used currently, keeping the project lightweight and easy to un
 ---
 
 ## 📂 Project Structure
-
+EduChain/
+│── index.html # Main landing page
+│── intro.html # Intro video page
+│── login.html # Login page
+│── signup.html # Signup page
+│── plus.html # EduChain Plus page
+│── style.css # Main stylesheet
+│── auth.css # Auth page styles
+│── script.js # JavaScript interactions
+│── intro.mp4 # Local intro video
+│── intro-thumb.png # Intro video thumbnail
